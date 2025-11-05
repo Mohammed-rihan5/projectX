@@ -4,7 +4,7 @@
         }
 .navbar{
     padding: 20px;
-    background-color: #708090;
+    background-color: #91A3B0;
     display: flex;
 }
 .p{
@@ -39,7 +39,7 @@ button{
     height: 87vh;
 }
 .right{
-    background-color: #fff;
+    background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
     width: 100vw;
     height: 87vh;
 }
